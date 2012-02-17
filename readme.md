@@ -1,5 +1,7 @@
 ooCustomError
 
-A custom error handler module for Lemonstand
+Minor testing.
 
-Untested, use at your own risk.
+It does work. Needs some theme mock ups. 
+
+The use of this module is still at your own risk. Released into the public domain. Enjoy.
